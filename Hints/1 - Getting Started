@@ -1,0 +1,6 @@
+You need to be listening for and responding to changes in the textarea, so you need to set up an onChange event handler in the textarea tag. 
+
+This event handler, in turn, has two jobs: updating the userInput state and updating the trackingReport state, in accordance with the instructions, which you should read carefully and implement step-by-step. 
+
+
+  
